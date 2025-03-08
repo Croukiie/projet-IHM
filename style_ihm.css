@@ -299,6 +299,7 @@ button {
 	border: 10px;
 	border-radius: 20px;
 	background-color: #93000e;
+	box-shadow: #ffffff;
 	transition: transform 0.5s;
 	-webkit-transition: 0.5s;
 	-moz-transition: 0.5s;
@@ -552,7 +553,6 @@ h3 {
 .button-l {
 	margin-left: 24%;
 	margin-right: 1%;
-	color: #000;
 }
 
 .button-r {
