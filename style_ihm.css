@@ -137,8 +137,8 @@ li {
 }
 
 .proto-img {
-    width: 100px; /* Taille uniforme */
-    height: 100px; /* Taille uniforme */
+    width: 1000px; /* Taille uniforme */
+    height: 1000px; /* Taille uniforme */
     object-fit: cover; /* Coupe l'image pour qu'elle garde une bonne proportion */
     border-radius: 10px; /* Coins arrondis pour un meilleur design */
 }
@@ -150,7 +150,7 @@ li {
 
 .li-long img {
     display: block; /* Place l'image sur une ligne distincte */
-    margin-bottom: 10px; /* Espacement entre l'image et le texte */
+    margin-bottom: 100px; /* Espacement entre l'image et le texte */
 }
 
 
