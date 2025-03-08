@@ -136,23 +136,12 @@ li {
 	padding-top: 10px;
 }
 
-.proto-img {
-    width: 1000px; /* Taille uniforme */
-    height: 1000px; /* Taille uniforme */
-    object-fit: cover; /* Coupe l'image pour qu'elle garde une bonne proportion */
-    border-radius: 10px; /* Coins arrondis pour un meilleur design */
-}
-
 .li-long {
-    list-style-type: none; /* Retire les puces */
-    margin-bottom: 20px; /* Espacement entre les personas */
+	font:  1.0em "Fira Sans", sans-serif;
+	font-size: large;
+	padding-top: 10px;
+	margin-bottom: 15px;
 }
-
-.li-long img {
-    display: block; /* Place l'image sur une ligne distincte */
-    margin-bottom: 100px; /* Espacement entre l'image et le texte */
-}
-
 
 
 .container {
@@ -425,8 +414,14 @@ p:hover {
 	border-radius: 50px;
   }
 
+.proto-img {
+	position: relative;
+	scale: 1;
+	z-index: 0;
+}
+
 .proto-img:hover {
-	transform: scale(1.0);
+	transform: scale(1.1);
 }
   
 img {
