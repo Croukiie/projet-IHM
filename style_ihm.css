@@ -419,6 +419,8 @@ p:hover {
 	scale: 0.5;
 }
 
+
+
 .proto-img:hover {
 	transform: scale(1.0);
 }
@@ -555,4 +557,23 @@ h3 {
 .button-r {
 	margin-left: 1%;
 	margin-right: 24%;
+}
+
+.persona-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.proto-img {
+    width: 100px; /* Ajustez la taille selon votre préférence */
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px; /* Coins arrondis */
+    margin-right: 15px; /* Espacement entre l'image et le texte */
+}
+
+.persona-text {
+    font-size: 16px;
+    line-height: 1.5;
 }
