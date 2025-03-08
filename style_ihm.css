@@ -416,12 +416,11 @@ p:hover {
 
 .proto-img {
 	position: relative;
-	scale: 1;
-	z-index: 0;
+	scale: 0.5;
 }
 
 .proto-img:hover {
-	transform: scale(1.1);
+	transform: scale(1.0);
 }
   
 img {
