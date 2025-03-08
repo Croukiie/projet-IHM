@@ -439,38 +439,28 @@ img {
 
 .img-1 {
 	transform: rotate(30deg);
-	width: 400px;
-	height: auto;
   }
 .img-2 {
 	transform: rotate(-20deg);
-	width: 400px;
-	height: auto;
   }
 .img-3 {
 	transform: rotate(10deg);
-	width: 400px;
-	height: auto;
   }
 .img-4 {
 	transform: rotate(-5deg);
-	width: 400px;
-	height: auto;
   }
 .img-5 {
 	transform: rotate(-30deg);
-	width: 400px;
-	height: auto;
   }
   
 img:hover {
 	z-index: 999;
 	rotate: 0deg;
-	transform: scale(1.75) rotate(0deg);
-		-webkit-transform: scale(1.75), rotate(0deg);
-		-moz-transform: scale(1.75), rotate(0deg);
-		-o-transform: scale(1.75), rotate(0deg);
-		-ms-transform: scale(1.75), rotate(0deg);
+	transform: scale(1) rotate(0deg);
+		-webkit-transform: scale(1), rotate(0deg);
+		-moz-transform: scale(1), rotate(0deg);
+		-o-transform: scale(1), rotate(0deg);
+		-ms-transform: scale(1), rotate(0deg);
   }
 
 
