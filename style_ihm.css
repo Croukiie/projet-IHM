@@ -466,7 +466,7 @@ img {
 img:hover {
 	z-index: 999;
 	rotate: 0deg;
-	transform: scale(1.1) rotate(0deg);
+	transform: scale(1.75) rotate(0deg);
 		-webkit-transform: scale(1.75), rotate(0deg);
 		-moz-transform: scale(1.75), rotate(0deg);
 		-o-transform: scale(1.75), rotate(0deg);
