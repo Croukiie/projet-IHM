@@ -428,7 +428,7 @@ p:hover {
   
 img {
 	position: absolute;
-	scale: 0.1;
+	scale: 0.3;
 	z-index: 0;
 	transition: transform 0.5s;
 	-webkit-transition: 0.5s;
@@ -439,27 +439,27 @@ img {
 
 .img-1 {
 	transform: rotate(30deg);
-	width: 150px;
+	width: 400px;
 	height: auto;
   }
 .img-2 {
 	transform: rotate(-20deg);
-	width: 150px;
+	width: 400px;
 	height: auto;
   }
 .img-3 {
 	transform: rotate(10deg);
-	width: 150px;
+	width: 400px;
 	height: auto;
   }
 .img-4 {
 	transform: rotate(-5deg);
-	width: 150px;
+	width: 400px;
 	height: auto;
   }
 .img-5 {
 	transform: rotate(-30deg);
-	width: 150px;
+	width: 400px;
 	height: auto;
   }
   
