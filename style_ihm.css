@@ -312,7 +312,7 @@ button {
 button:hover {
 	color: rgb(255, 255, 255);
 	cursor: pointer;
-	background-color: #002928;
+	background-color: #93000e;
 	text-decoration: underline;
 	transition: 0.50s;
   		-webkit-transition: 0.50s;
