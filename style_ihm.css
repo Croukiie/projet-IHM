@@ -566,8 +566,8 @@ h3 {
 }
 
 .proto-img {
-    width: 100px; /* Ajustez la taille selon votre préférence */
-    height: 100px;
+    width: 300px; /* Ajustez la taille selon votre préférence */
+    height: 500px;
     object-fit: cover;
     border-radius: 10px; /* Coins arrondis */
     margin-right: 15px; /* Espacement entre l'image et le texte */
