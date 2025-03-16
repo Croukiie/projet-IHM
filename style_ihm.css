@@ -300,6 +300,7 @@ button {
 	border-radius: 20px;
 	background-color: #93000e;
 	box-shadow: #ffffff;
+	color: #ffffff;
 	transition: transform 0.5s;
 	-webkit-transition: 0.5s;
 	-moz-transition: 0.5s;
